@@ -1,0 +1,23 @@
+# Recoup
+
+> Your home inventory against your policy limit: how much of it falls short?
+
+Recoup: Household Inventory — Home contents vs. policy gap. iPhone app, available on the App Store: https://apps.apple.com/app/id6809732277?pt=128839649&ct=ai_web
+
+## Guides
+
+- [How to check if your home insurance covers your belongings on iPhone](https://jjjulietttee-jpg.github.io/recoup-app/check-if-home-insurance-covers-my-belongings): Compare a room-by-room inventory of your belongings with your policy limit and see the gap, with the working shown.
+- [How to work out the depreciated value (ACV) of your belongings on iPhone](https://jjjulietttee-jpg.github.io/recoup-app/estimate-depreciated-value-of-belongings): See actual cash value (ACV) for each item with the depreciation arithmetic shown, so you can check it by hand.
+- [How to make a home inventory for insurance on iPhone](https://jjjulietttee-jpg.github.io/recoup-app/make-a-home-inventory-for-insurance): Build a room-by-room home inventory with photos, purchase dates, serial numbers and receipts, and export it as a PDF.
+- [How to see which belongings pass typical policy sub-limits on iPhone](https://jjjulietttee-jpg.github.io/recoup-app/see-which-items-exceed-policy-sublimits): Find items that pass the sums policies usually cap for jewelry, watches, firearms, silver and bicycles.
+
+## App
+
+- [Home](https://jjjulietttee-jpg.github.io/recoup-app/): what Recoup does, features, pricing
+- [App Store](https://apps.apple.com/app/id6809732277?pt=128839649&ct=ai_web): download, screenshots, reviews
+
+## Optional
+
+- [Privacy](https://jjjulietttee-jpg.github.io/recoup-app/privacy)
+- [Support](https://jjjulietttee-jpg.github.io/recoup-app/support)
+- [Terms](https://jjjulietttee-jpg.github.io/recoup-app/terms)
